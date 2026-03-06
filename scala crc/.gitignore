@@ -1,0 +1,23 @@
+# Scala CLI build output
+.scala-build/
+
+# BSP (Build Server Protocol) for IDE integration
+.bsp/
+
+# Metals (VS Code/IntelliJ) cache
+.metals/
+.bloop/
+metals.sbt
+
+# Compiled class files
+*.class
+*.tasty
+
+# Logs and temporary files
+*.log
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
